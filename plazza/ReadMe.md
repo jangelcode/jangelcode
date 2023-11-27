@@ -2,7 +2,7 @@
 Plazza is a mobile application designed to connect people with similar interests into groups. The app facilitates social interaction and community building based on shared hobbies, activities, and preferences. Users can create profiles, join groups, chat with others, and explore a variety of topics in a vibrant and engaging environment.
 
 ## Features
-Interest Matching: Take a personality quiz and select interests to connect with like-minded individuals.
+Match Interests: Take a personality quiz and select interests to connect with like-minded individuals.
 
 Profile Management: Users can create and customize their profiles.
 
