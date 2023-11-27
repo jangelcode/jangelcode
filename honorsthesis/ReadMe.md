@@ -2,11 +2,11 @@
 
 ## Project Title: 
 
-Impact of School District Wealth on Arizona ESA Participation
+District Wealth and Arizona School Voucher Program Participation
 
 ## Overview
 
-This repository contains the materials related to my honors thesis project, "Impact of School District Wealth on Arizona ESA Participation." The project explores the allocation of funds in the Arizona Empowerment Scholarship Account (ESA) program and aims to understand the relationship between school district wealth and participation in the ESA program.
+This repository contains the materials related to my honors thesis project, "District Wealth and Arizona School Voucher Program Participation." The project explores the allocation of funds in the Arizona Empowerment Scholarship Account (ESA) program and aims to understand the relationship between school district wealth and participation in the ESA program.
 
 ## Files and Folders
 ### 1. Thesis
