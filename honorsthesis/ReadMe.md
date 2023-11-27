@@ -19,7 +19,7 @@ Description: This document is the written honors thesis detailing the research, 
 
 File Name: ESA.ipynb
 
-Description: This folder contains the source code used for the multiple linear regression model. The code includes advanced econometric techniques, such as addressing potential sources of model bias, applying hetero-robust standard errors, and performing statistical inference.
+Description: This folder contains the source code used for the multiple linear regression model. The code includes advanced econometric techniques, such as extensive statistical inference, plotting data to check the Gauss Markov assumptions, and running OLS regression.
 
 ### 3. PowerPoint Presentation
 
