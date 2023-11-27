@@ -1,4 +1,4 @@
-# ![PlazzaLogo2](https://github.com/jangelcode/jangelcode/assets/83419734/c891d8ba-78eb-49bf-8e95-39e406fac9ca) 
+![PlazzaLogo3](https://github.com/jangelcode/jangelcode/assets/83419734/cc964b09-df23-4495-bd8f-4627d1f72070)
 # Plazza - Connect with Similar Interests
 
 
