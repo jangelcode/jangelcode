@@ -1,5 +1,5 @@
 ![PlazzaLogo3](https://github.com/jangelcode/jangelcode/assets/83419734/cc964b09-df23-4495-bd8f-4627d1f72070)
-# Plazza - Connect with Similar Interests
+# Plazza - Find People with Similar Interests
 
 
 Plazza is a mobile application designed to connect people with similar interests into groups. The app facilitates social interaction and community building based on shared hobbies, activities, and preferences. Users can create profiles, join groups, chat with others, and explore a variety of topics in a vibrant and engaging environment.
