@@ -5,7 +5,7 @@ This repository hosts various machine learning projects showcasing data wranglin
 
 ### 1. RDR Horse Identifier
 
-An image classification model is developed to differentiate between Red Dead Redemption (RDR) video game horses and real horses. The project includes the analysis of model predictions using confusion matrices and top loss analysis. <img src = ![Screenshot 2023-11-28 132837](https://github.com/jangelcode/jangelcode/assets/83419734/15b3e471-20e9-495e-8653-de7e7f0aa918) align = right>
+An image classification model is developed to differentiate between Red Dead Redemption (RDR) video game horses and real horses. The project includes the analysis of model predictions using confusion matrices and top loss analysis. <img src = https://github.com/jangelcode/jangelcode/assets/83419734/457c614c-592b-4d59-943a-0cde7133e3cd align = right>
 
 ### 2. Income Predictor
 
