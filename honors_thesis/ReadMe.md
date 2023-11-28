@@ -29,4 +29,4 @@ Description: This PowerPoint presentation provides a concise overview of the hon
 
 ## Project Summary
 
-I conducted an in-depth analysis using a multiple linear regression model to investigate the impact of school district wealth on participation in the Arizona ESA program. The analysis involved advanced econometric techniques, including addressing potential sources of model bias, applying hetero-robust standard errors, and performing statistical inference. One significant finding was that program funds were more frequently allocated to poorly performing districts with lower poverty rates rather than poorly performing districts with higher poverty rates.
+I conducted an in-depth analysis using a multiple linear regression model to investigate the impact of school district wealth on participation in the Arizona ESA program. One significant finding was that program funds were more frequently allocated to poorly performing districts with lower poverty rates rather than poorly performing districts with higher poverty rates.
