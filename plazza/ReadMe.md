@@ -27,6 +27,8 @@ Group Creation: Create new interest groups, define their purpose, and invite oth
 Chat Screen: Experience real-time conversations with group members. Share media, text, and more.
 
 ## Technologies Used
-Flutter: Dart framework for building the cross-platform mobile app.
-
-Firebase: Backend service for user authentication and real-time data storage.
+* Flutter
+* Dart
+* Firebase
+* XCode
+* Git/Github
