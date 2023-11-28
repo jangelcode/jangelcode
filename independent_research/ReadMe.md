@@ -16,6 +16,7 @@ Data Visualization: Matplotlib is used for creating visualizations that aid in u
 Presentation: The project's findings and insights are presented using Microsoft Excel for key metrics and a PowerPoint presentation for visual communication.
 
 ## Technology Used
+<img src = https://github.com/jangelcode/jangelcode/assets/83419734/706be288-8200-416b-a157-2c825c7ad9aa align = right>
 
 * Python (3.7+)
 * pandas
