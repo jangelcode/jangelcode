@@ -1,5 +1,5 @@
 # Machine Learning Projects
-This repository hosts various machine learning projects, each solving unique problems and demonstrating skills in data wrangling, model development, and analysis.
+This repository hosts various machine learning projects showcasing data wrangling, model development, and analysis.
 
 ## Project List
 
