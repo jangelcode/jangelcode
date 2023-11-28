@@ -1,4 +1,4 @@
-# Honors Thesis Repository
+# Thesis
 
 ## Project Title: 
 
