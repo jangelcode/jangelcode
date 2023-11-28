@@ -30,5 +30,6 @@ Chat Screen: Experience real-time conversations with group members. Share media,
 * Flutter
 * Dart
 * Firebase
-* XCode
+* Xcode
+* Visual Studio Code
 * Git/Github
